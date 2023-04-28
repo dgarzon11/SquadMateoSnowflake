@@ -67,3 +67,4 @@ validators==0.20.0
 watchdog==3.0.0
 wheel==0.40.0
 zipp==3.15.0
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_39.reqs
